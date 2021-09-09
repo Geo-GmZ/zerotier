@@ -29,4 +29,5 @@ docker-compose up -d
   
   ![image](https://user-images.githubusercontent.com/22604334/132641318-0081ab31-0efb-4df1-8ea8-c142d03bd700.png)
 
+    ####Note: This network is only reacheable by other containers cannot be reached from the outside in this case only Nginx Proxy Manager
 
