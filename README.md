@@ -1,0 +1,2 @@
+# zerotier
+Zerotier configuration files
